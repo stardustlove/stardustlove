@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - I like science fiction movies with a humanistic touch, love songs, and instrumental music, and I enjoy playing open-world games.
 
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stardustlove)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](2690694169@qq.com)
