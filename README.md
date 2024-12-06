@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 
 
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=stardustlove&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="stardustlove's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=stardustlove&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=stardustlove&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stardustlove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Top Repositories
